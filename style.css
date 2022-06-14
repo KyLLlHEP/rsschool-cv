@@ -1,6 +1,15 @@
+html {
+    scroll-behavior: smooth; 
+  }
 body {
     font-family: 'Roboto', sans-serif;
 }
 * {
     box-sizing: border-box;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
   }
