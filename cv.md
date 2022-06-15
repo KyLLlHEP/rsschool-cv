@@ -1,7 +1,7 @@
 #Artur Kushner
 ____
 
-__Contact__
+__Contacts__
 * __Discord :__ KyLLlHEP#5442
 * __E-mail :__ arturkushner@gmail.com
 * __Tel:__ +447414497837
