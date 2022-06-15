@@ -5,93 +5,85 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cv</title>
-    <link rel="stylesheet" type="text/css" href="/style.css"/>
-    <link rel="icon" href="/assets/favicon.ico"/>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" href="/assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="header">
+    <header>
         <div class="container">
             <nav class="nav">
-            <ul class="nav-list">
-                <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-                <li class="nav-item"><a href="#aboutme" class="nav-link">About me</a></li>
-                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-                <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
-                <li class="nav-item"><a href="#workexperience" class="nav-link">Work experience</a></li>
-                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
-                <li class="nav-item"><a href="#language" class="nav-link">Language</a></li>
-            </ul>
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts">Contacts</a></li>
+                    <li class="nav-item"><a href="#skills">Skills</a></li>
+                    <li class="nav-item"><a href="#code">Code</a></li>
+                    <li class="nav-item"><a href="#education">Education</a></li>
+                    <li class="nav-item"><a href="#language">Language</a></li>
+                </ul>
             </nav>
         </div>
     </header>
-    <main class="main-container">
-        <br class="container">
+    <main>
+        <div class="container">
             <section class="section" id="profile">
-                <title class="section-title"><h1>Artur Kushner</h1></title>
-                <p>Artur Kushner</p>
-                <p>Web developer</p>
-                <img src="/assets/img/photo_2022-06-14_20-30-15.jpg" 
-                class="mypic" alt="Photo portpholio holder"/>
+                <h1 class="section-title"><b>Artur Kushner</b></h1>
+                <p>Web Developer</p>
+                <img class="mypic" src="/assets/img/photo_2022-06-14_20-30-15.jpg">
             </section>
             <section class="section" id="contacts">
-                <title class="section-title"><h2>Contacts</h2></title>
-                <ul>Contacts
-                    <li>Discord: KyLLlHEP#5442 </li>
-                    <li>E-mail:<a href="mailto:arturkushner@gmail.com">arturkushner@gmail.com</a> </li>
-                    <li>Tel: +447414497837</li>
-                    <li>GitHub:<a href="https://github.com/KyLLlHEP">GitHub</a></li>
+                <h2 class="section-title">Contacts</h2>
+                <ul class="contacts-list">
+                    <li class="discord"><p><b>Discord:</b>&nbspKyLLlHEP#5442</p></li>
+                    <li class="email"><p><b>E-mail:</b>&nbsp<a href="mailto:arturkushner@gmail.com">arturkushner@gmail.com</a></p></li>
+                    <li class="tel"><p><b>Tel:</b>&nbsp+447414497837</p></li>
+                    <li class="github"><a href="https://github.com/KyLLlHEP">GitHub</a></li>
                 </ul>
             </section>
-            <section class="section" id="aboutme">
-                <title class="section-title"><h2>About me</h2></title>
-                <p>Study in New College South Lanarkshire (Web developer).
-                    My aim become a web developer and will work "Big Tech" company.</p>
-            </section>
             <section class="section" id="skills">
-                <title class="section-title"><h2>Skills</h2></title>
-                <p>I read book "HTML & CSS" JON DUCKETT". 
-                    I know basic HTML & CSS. Also I reading "Eloquent JavaScript" Marijn Haverbeke.
-                    I done hexlet test "Git and comandline".
-                     Basic understanding "FIGMA" and "ADOBE PHOTOSHOP".
-                    Working google devtools.</p>
+                <h2 class="section-title">Skills</h2>
+                <p>I read book <b>"HTML & CSS" JON DUCKETT".</b><br>
+                    I know basic <b>HTML & CSS.</b><br> Also I reading <b>"Eloquent JavaScript"</b> Marijn Haverbeke.<br>
+                    I done hexlet test "Git and comandline".<br>
+                    Basic understanding "FIGMA" and "ADOBE PHOTOSHOP".<br>
+                    Working google devtools.
+                </p>
             </section>
             <section class="section" id="code">
-                <title class="section-title"><h2>Code</h2></title>
-                <br>function multiply(a, b){</section>
-                    &nbsp;return a * b; </br>
-                  }</p>
-            </section>
-            <section class="section" id="workexperience">
-                <title class="section-title"><h2>Work experience</h2></title>
-                <p>without work experience.</p>
+                <h2 class="section-title">Code</h2>
+                <p><b>My code example:</b></p>
+                <code>function multiply(a, b){<br>
+                    return a * b;<br>
+                    &nbsp}
+                  </code>
             </section>
             <section class="section" id="education">
-                <title class="section-title"><h2>Education</h2></title>
-                <ol>Education
-                    <li>Belarusian State University of Physical Culture and Sports
+                <h2 class="section-title">Education</h2>
+                <ol class="education-list">
+                    <li><b>Belarusian State University of Physical Culture and Sports</b><br>
                         "Physical education teacher - Basketball coach"</li>
-                    <li>
-                        New College Lanarkshire 
+                    <li><b>New College Lanarkshire</b>
                         <ul>
                             <li>"Spray paint and body repair"</li>
                             <li>"Web developer" in process.</li>
                         </ul>
                     </li>
-                    <li>Harvard video course "CS50".</li>
-                    <li><a href="https://www.freecodecamp.org/Kushner">Freecodecamp link my accaunt</a></li>
+                    <li>Harvard video course <b>"CS50"</b>.</li>
+                    <li><a href="https://www.freecodecamp.org/Kushner">freecodecamp link my accaunt</a></li>
                 </ol>
             </section>
             <section class="section" id="language">
-                <title class="section-title"><h2>Language</h2></title>
-                <p>Perfect Russian and Belarusian language.
-                    Englis intermedia (done ESOL3 language course).
+                <h2 class="section-title">Language</h2>
+                <p>Perfect Russian and Belarusian language.<br>
+                    Englis intermedia (done <b>ESOL3</b> language course).<br>
                     I live Scotland at the moment and practice language every single day.</p>
             </section>
         </div>
     </main>
-    <footer class="footer">
+    <footer>
         <div class="container">
-            <p>This is FOOTER</p>
+
         </div>
     </footer>
 </body>
