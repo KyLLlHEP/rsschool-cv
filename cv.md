@@ -26,7 +26,7 @@ function updateSlides() {
             slide.style.backgroundImage = `url('${backgrounds[(currentIndex + i) % totalSlides]}')`;
             slide.style.zIndex = 1;
             slide.classList.remove('slide-1', 'slide-2', 'slide-3', 'slide-4', 'slide-5');
-        });
+        })};
 ```
 
 ## Experience
