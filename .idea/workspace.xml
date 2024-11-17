@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e81c37bf-43d4-4fd9-b625-ca4aff76b91f" name="Changes" comment="fix: fix title '&amp;'">
+      <change afterPath="$PROJECT_DIR$/kylllhep-JSFE2024Q4/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kylllhep-JSFE2024Q4" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KyLLlHEP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KyLLlHEP/rsschool-cv.git&quot;,
+    &quot;accountId&quot;: &quot;ba97e4a5-efaf-4d22-963c-01c90d55df4a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oLQ36LLkxcQRhcFDO1hn90ayLe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Volumes/IT/RSS 2024",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e81c37bf-43d4-4fd9-b625-ca4aff76b91f" name="Changes" comment="" />
+      <created>1730646173771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730646173771</updated>
+      <workItem from="1730646175447" duration="18339000" />
+      <workItem from="1731802751712" duration="271000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add content in cv.md file and create README.md">
+      <option name="closed" value="true" />
+      <created>1730996156391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730996156391</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add link in readme.md">
+      <option name="closed" value="true" />
+      <created>1730996375697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730996375697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: fix link in readme.md">
+      <option name="closed" value="true" />
+      <created>1730996510697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730996510697</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: fix cv.md miss }">
+      <option name="closed" value="true" />
+      <created>1730996807184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730996807184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init: Start HTML, CSS &amp; Git Basics task">
+      <option name="closed" value="true" />
+      <created>1731077238089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731077238089</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add style.css and remove styles.css.">
+      <option name="closed" value="true" />
+      <created>1731077359914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731077359914</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: add minimum content">
+      <option name="closed" value="true" />
+      <created>1731077480118</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731077480118</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: add margin 0 auto in body">
+      <option name="closed" value="true" />
+      <created>1731078986286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731078986286</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: fix title '&amp;' to 'and'">
+      <option name="closed" value="true" />
+      <created>1731080066215</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731080066215</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: fix title '&amp;' to 'and'">
+      <option name="closed" value="true" />
+      <created>1731080212957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731080212957</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: fix title '&amp;'">
+      <option name="closed" value="true" />
+      <created>1731080454729</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731080454729</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add content in cv.md file and create README.md" />
+    <MESSAGE value="feat: add link in readme.md" />
+    <MESSAGE value="fix: fix link in readme.md" />
+    <MESSAGE value="fix: fix cv.md miss }" />
+    <MESSAGE value="init: Start HTML, CSS &amp; Git Basics task" />
+    <MESSAGE value="feat: add style.css and remove styles.css." />
+    <MESSAGE value="feat: add minimum content" />
+    <MESSAGE value="feat: add margin 0 auto in body" />
+    <MESSAGE value="fix: fix title '&amp;' to 'and'" />
+    <MESSAGE value="fix: fix title '&amp;'" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: fix title '&amp;'" />
+  </component>
+</project>
